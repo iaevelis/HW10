@@ -8,20 +8,20 @@ This musical instrument is a physical keyboard simulator that allows user to int
 
 ## Component Parts
 
-wood blocks: base.;
-aluminium or iron nails: conductive parts;
-arduino and other electronic parts (provided);
-extra breadboards and LEDs;
+- wood blocks: base.
+- aluminium or iron nails: conductive parts
+- arduino and other electronic parts (provided)
+- extra breadboards and LEDs
 
-inputs: finger touch the conductive parts to indicate a keyboard press;
-output: sound and LED light;
-data: musical pitch;
+- inputs: finger touch the conductive parts to indicate a keyboard press
+- output: sound and LED light
+- data: musical pitch
 
 ## Challenges
 
-Building the hardware part and to make sure the keys are correspondent to the signals; 
-coding; 
-finish everything on time. 
+- Building the hardware part and to make sure the keys are correspondent to the signals
+- coding
+- finish everything on time
 
 ## Timeline
 
